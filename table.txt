@@ -1,0 +1,6 @@
+        Retail:         148888           Coat    StoneIsland          Italy           1000             30             15
+        Retail:         155353           Beef       Miratorg         Russia             10             18            800
+        Retail:         228228          Jeans          Levis            USA            160             65             20
+        Retail:         617041         Banana   Hakunamatata          China              2            250             40
+        Retail:         971235          Apple       Greenday         Turkey              1             12           1000
+        Retail:         971236              1     HelloWorld            USA            123        1234567             12

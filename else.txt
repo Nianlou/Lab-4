@@ -1,0 +1,5 @@
+Розничный:         148888           Coat    StoneIsland          Italy           1000             30             15
+  Оптовый:         155353           Beef       Miratorg         Russia             10             18            800
+Розничный:         228228          Jeans          Levis            USA            160             65             20
+Розничный:         617041         Banana   Hakunamatata          China              2            250             40
+  Оптовый:         971235          Apple       Greenday         Turkey              1             12           1000

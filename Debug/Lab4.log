@@ -1,0 +1,5 @@
+﻿  table.cpp
+C:\Users\Ana\source\repos\Storage\Lab4\table.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ana\source\repos\Storage\Lab4\table.cpp(47,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ana\source\repos\Storage\Lab4\table.cpp(80,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab4.vcxproj -> C:\Users\Ana\source\repos\Storage\Debug\Lab4.exe
